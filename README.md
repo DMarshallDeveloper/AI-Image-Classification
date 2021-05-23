@@ -1,2 +1,2 @@
 # AI Image Classification
- A series of AI classification algorithms, specifically kNN, Decision Trees and Perceptron 
+This program was written to classify images using deep neural networks 
